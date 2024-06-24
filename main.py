@@ -3,7 +3,6 @@ import json
 import os
 
 
-
 def is_malicious(file_path):
     url = "https://www.virustotal.com/api/v3/files"
 
