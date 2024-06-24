@@ -44,4 +44,5 @@ def check_al(path, x):
 
 
 if __name__ == '__main__':
+    file_path = input("enter file path: ")
     check_all("not a virus at all!")
